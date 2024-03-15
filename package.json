@@ -1,6 +1,6 @@
 {
-  "name": "@mineghpm/api-remote",
-  "version": "1.0.1",
+  "name": "@mineghpm/api-extension",
+  "version": "1.0.0",
   "description": "connect to api api-remote",
   "main": "lib/index.js",
   "scripts": {
@@ -11,14 +11,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/mineghpm/api-remote.git"
+    "url": "https://github.com/mineghpm/api-extension.git"
   },
   "author": "mineghpm",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mineghpm/api-remote/issues"
+    "url": "https://github.com/mineghpm/api-extension/issues"
   },
-  "homepage": "https://github.com/mineghpm/api-remote#readme",
+  "homepage": "https://github.com/mineghpm/api-extension#readme",
   "dependencies": {
     "@libphamton/api-chatbot": "^1.0.1",
     "@libphamton/api-client-x": "^1.0.7",
